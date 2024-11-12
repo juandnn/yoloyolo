@@ -1,0 +1,12 @@
+names:
+- Juan-Niebles
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: detector-juan-niebles
+  url: https://universe.roboflow.com/juan-ekotv/detector-juan-niebles/dataset/1
+  version: 1
+  workspace: juan-ekotv
+test: ../test/images
+train: ../train/images
+val: ../valid/images
